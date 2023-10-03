@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kadhim
+- 👋 Hi, I’m Kadhim
 - 👀 I’m interested in technology and software development.
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: kadhimalquzweeni@gmail.com
